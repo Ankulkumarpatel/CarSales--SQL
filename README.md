@@ -1,2 +1,2 @@
 # CarSales--SQL
-CarSaels Analysis in SQL
+CarSales Analysis in SQL
